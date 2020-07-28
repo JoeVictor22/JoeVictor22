@@ -1,5 +1,5 @@
 ### Hi there, im Joel 👋
-
+<img src="https://pbs.twimg.com/media/EDienyGXoAEBGlP.jpg" align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgl3o7cE7inw4c3enbJVsVaSLD7BYEd3mvUA&usqp=CAU" align="right">
 <!--
 
