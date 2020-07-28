@@ -1,5 +1,6 @@
 ### Hi there, im Joel 👋
-<img width="150" height="150" alt="BANANACAT" src="https://pbs.twimg.com/media/EDienyGXoAEBGlP.jpg" align="center">
+
+<img width="300" height="300" alt="BANANACAT" src="https://pbs.twimg.com/media/EDienyGXoAEBGlP.jpg" align="right">
 <img alt="TACOCAT" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgl3o7cE7inw4c3enbJVsVaSLD7BYEd3mvUA&usqp=CAU" align="right">
 <!--
 
