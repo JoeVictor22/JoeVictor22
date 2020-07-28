@@ -1,5 +1,6 @@
 ### Hi there, im Joel 👋
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgl3o7cE7inw4c3enbJVsVaSLD7BYEd3mvUA&usqp=CAU" align="center">
 <!--
 
 Here are some ideas to get you started:
