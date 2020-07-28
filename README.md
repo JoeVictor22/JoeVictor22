@@ -2,7 +2,7 @@
 
 <img alt="TACOCAT" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/tacocat.gif" align="right">
 <img width="220" height="220" alt="NANANACAT" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/nananacat.gif" align="right">
-<img widgth="220" height="200" alt="NYAN" src="https://i.pinimg.com/originals/3e/50/c8/3e50c82d8802a640d1e68cf7a7427d74.gif" align="left">
+<img widgth="220" height="200" alt="NYAN" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/nyannyan.gif" align="left">
 
 <!--
 
