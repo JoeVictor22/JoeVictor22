@@ -8,4 +8,4 @@
 <img width="150" alt"WAFFLES" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/waffles.gif" align="right">
 </div>
 
-<iframe src="https://theuselessweb.com/" title="THE VOID">
+<a src="https://theuselessweb.com/" title="THE VOID">TAKE ME SOMEWHERE</a>
