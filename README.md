@@ -1,5 +1,5 @@
 
-<div class"row" style="vertical-align: middle;text-align:center">
+<div style="vertical-align: middle;text-align:center">
 ### THE FOUR HORSEMEN 👋
 <img width="200" alt="TACOCAT" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/tacocat.gif" align="right">
 <img width="200" height="220" alt="NANANACAT" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/nananacat.gif" align="right">
