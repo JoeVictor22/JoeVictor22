@@ -3,7 +3,7 @@
 <img alt="TACOCAT" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/tacocat.gif" align="right">
 <img width="220" height="220" alt="NANANACAT" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/nananacat.gif" align="right">
 <img height="180" alt="NYAN" src="https://raw.githubusercontent.com/JoeVictor22/JoeVictor22/master/nyannyan.gif" align="left">
-<img height="180" alt"PINGU" src="https://media.tenor.com/images/6ca5755c1d4aa25a16c4bf75a0e85d47/tenor.gif" align="left">
+<img height="180" alt"PINGU" src="https://i.redd.it/dw17hmccmq141.png" align="left">
 
 <!--
 
